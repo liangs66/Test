@@ -6,7 +6,7 @@ eureka:
     lease-expiration-duration-in-seconds: 3
     lease-renewal-interval-in-seconds: 1
 server:
-  a: 2
+  a: 1
 spring:
   application:
     name: service-a
