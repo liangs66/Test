@@ -7,7 +7,7 @@ eureka:
     lease-renewal-interval-in-seconds: 1
 server:
   port: 8872
-  a: 1
+  a: 2
 spring:
   application:
     name: service-a
