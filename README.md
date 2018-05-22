@@ -1,2 +1,2 @@
 # Test
-测试
+spring-cloud 配置中心
